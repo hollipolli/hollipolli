@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hollipolli
 - 👀 I’m interested in full-stack developing.
-- 🌱 I’m currently learning web development using The Odin Project!
+- 🌱 Currently studying cs at Savonia!
 
 
 <!---
